@@ -1,4 +1,3 @@
-Aún en desarrollo
 <h3 style="color: #333">Utiliza nuestra aplicación de avatares para tu sitio web, ¡Gratis!</h3>
 <div class="col-md-8">
 ¿Cómo puedo utilizar los avatares de TraicionCraft para mi web?
